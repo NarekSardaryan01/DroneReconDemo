@@ -1,0 +1,13 @@
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+.idea/
+
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.log
+.vsconfig
